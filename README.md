@@ -1,2 +1,1 @@
-# doc-documentacion
-Documentación del proceso de prototipado
+# Documentación del proceso de prototipado
